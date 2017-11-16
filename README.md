@@ -1,2 +1,2 @@
 # FPCA_MedflyData
-Conducting FPCA on the Medfly egg data
+This project is comparing Functional Principal Component Analysis(FPCA) and Principal Component Analysis(PCA) regarding on noisy data. The data set used in this project is recording egg counts of Medflies over the days. I compared three possion models such as no reducing the dimension and reducing the dimensions by FPCA and PCA. It shows FPCA gives better fitting with efficiency. 
